@@ -1,2 +1,2 @@
-# Grad24Excercise1
+# Grad24Excercise
  Factorial program using DDD
