@@ -1,0 +1,15 @@
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\bin\Debug\net8.0\Adapters.deps.json
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\bin\Debug\net8.0\Adapters.dll
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\bin\Debug\net8.0\Adapters.pdb
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\bin\Debug\net8.0\Services.dll
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\bin\Debug\net8.0\Services.pdb
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\obj\Debug\net8.0\Adapters.csproj.AssemblyReference.cache
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\obj\Debug\net8.0\Adapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\obj\Debug\net8.0\Adapters.AssemblyInfoInputs.cache
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\obj\Debug\net8.0\Adapters.AssemblyInfo.cs
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\obj\Debug\net8.0\Adapters.csproj.CoreCompileInputs.cache
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\obj\Debug\net8.0\Adapters.csproj.CopyComplete
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\obj\Debug\net8.0\Adapters.dll
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\obj\Debug\net8.0\refint\Adapters.dll
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\obj\Debug\net8.0\Adapters.pdb
+C:\Users\rorii\source\repos\FundamentalsOfProgramming\Adapters\obj\Debug\net8.0\ref\Adapters.dll
